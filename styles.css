@@ -28,7 +28,7 @@ text-align:center;
 .wins{
 margin:5px;
     border: solid black 2px;
-    background-color:green;
+    background-color:orange;
     padding: 6px;
 }
 .logo{
@@ -42,14 +42,14 @@ margin:5px;
 .scored{
 margin:5px;
     border: solid black 2px;
-    background-color:green;
+    background-color:orange;
     padding:6px;
 }
 .against{
 margin:5px;
     border: solid black 2px;
     padding:6px;
-    background-color:green;}
+    background-color:orange;}
 .stats{
 background-color:red;
 }
@@ -60,7 +60,7 @@ display:flex;
 	display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
+ width:90%;
 }
 .statsText{
 text-align:center;
