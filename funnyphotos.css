@@ -1,0 +1,23 @@
+.banner {
+    background-color: red;
+    margin: 0px;
+    padding: 30px;
+    font-size: 70px;
+    display: flex;
+    justify-content: space-between;
+    color: gold;
+}
+
+.body {
+    background-color: silver;
+
+}
+
+.long {
+    width: 75%;
+}
+
+.tall {
+    width: 30%;
+    height: auto;
+}
