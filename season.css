@@ -1,0 +1,65 @@
+body {
+    background-color: silver;
+    text-align: center;
+}
+
+.banner {
+    background-color: red;
+    margin: 0px;
+    padding: 30px;
+    font-size: 70px;
+    display: flex;
+    justify-content: space-between;
+    color: gold;
+}
+
+h1 {
+    color: red;
+}
+
+iframe {
+    width: 560px;
+
+}
+
+.pic1 {
+    height: 40%;
+    border: red solid 2px;
+    padding: 5px;
+    margin: 7px;
+}
+
+.pic2 {
+    border: red solid 2px;
+    padding: 5px;
+    margin: 7px;
+}
+
+.pic3 {
+    border: red solid 2px;
+    padding: 5px;
+    margin: 7px;
+}
+
+.pic4 {
+    border: red solid 2px;
+    padding: 5px;
+    margin: 7px;
+}
+
+.highlight1 {
+    width: 35%;
+    height: 40%;
+}
+
+.highlight2 {
+    width: 400px;
+}
+
+.highlight3 {
+    width: 400px;
+}
+
+.highlight4 {
+    width: 400px;
+}
