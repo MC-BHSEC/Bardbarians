@@ -1,0 +1,21 @@
+.banner{
+	background-color:red;
+    margin:0px;
+    padding:30px;
+    font-size:15px;
+    display:flex;
+    color:gold;
+}
+.win{
+	background-color:green;
+}
+.loss{
+	background-color:red;
+}
+body{
+	background-color:silver;
+}
+.onLine{
+	width:70%;
+    text-align:center;
+}
